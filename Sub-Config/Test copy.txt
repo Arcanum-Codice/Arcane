@@ -1,3 +1,0 @@
-vless://ac5f7336-76d5-496c-fb41-fefc214c8311@chatgpt.mynetw0rk.com:20698?type=tcp&security=reality&sni=www.onefootball.com&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&flow=xtls-rprx-vision&fp=chrome#New-Test-01
-vless://f00d19e5-3f7f-432e-ddd4-795071221bbd@ChatGPT.mynetw0rk.com:57181?type=tcp&security=tls&sni=ChatGPT.mynetw0rk.com&flow=xtls-rprx-vision&fp=chrome#New-Test-02
-vless://8db6b393-99b5-4310-bd37-abad4b332d8e@ChatGPT.mynetw0rk.com:57757?type=ws&security=tls&path=%2F&sni=ChatGPT.mynetw0rk.com&fp=chrome#New-Test-03
